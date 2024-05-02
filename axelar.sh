@@ -1,6 +1,6 @@
 #!/bin/bash
 
-RPC_URL="https://tm.axelar.lava.build/lava-referer-13f213e3-9965-4b03-b6f7-beb5f3e8ed5b/"
+RPC_URL="https://tm.axelar.lava.build/lava-referer-b2a44d15-037c-486b-8606-309d518ea9f6/"
 
 OUTPUT_DIR="logs"
 

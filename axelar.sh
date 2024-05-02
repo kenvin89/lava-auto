@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/bash 
 
 RPC_URL="https://tm.axelar.lava.build/lava-referer-b2a44d15-037c-486b-8606-309d518ea9f6/"
 
